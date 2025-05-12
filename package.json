@@ -1,0 +1,11 @@
+{
+  "name": "create-deja-vu3d",
+  "version": "0.0.3",
+  "bin": {
+    "create-deja-vu3d": "./bin/cli.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "enquirer": "^2.3.6"
+  }
+}

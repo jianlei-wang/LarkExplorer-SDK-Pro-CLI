@@ -1,0 +1,7 @@
+node_modules
+dist
+demo
+api-docs
+vite-project
+# Editor directories and files
+.vscode/*

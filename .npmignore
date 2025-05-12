@@ -1,0 +1,13 @@
+# 排除文件夹
+.vscode/
+node_modules/
+dist/
+test/
+templates/*/.vscode/
+templates/*/dist/
+templates/*/node_modules/
+
+# 排除文件
+.env
+*.log
+templates/*/package-lock.json
